@@ -15,4 +15,4 @@ is intentional, but some players might prefer to change their university choice 
 in another version by placing the uni_choice in the first stage. 
 
 
-## Course project for Data Science with Python at Hult International Business School
+### Course project for Data Science with Python at Hult International Business School
