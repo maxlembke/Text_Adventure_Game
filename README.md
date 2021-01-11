@@ -1,5 +1,14 @@
 # Text Adventure Game
 
+In this assignment, students were tasked with designing a text-based adventure game. This game should utilize the Python essentials covered thus far, including, but not limited to:
+
+Strings and String Manipulation
+User-Defined Functions and Objects (variables)
+User Input and Input Handling
+Conditional and Nested Conditional Statements (if/elif/else)
+Loops (for/while)
+Controlling for Errors
+
 ---
 
 The COVID-19 Struggle is an educational game aimed at students who are currently 
@@ -15,4 +24,4 @@ is intentional, but some players might prefer to change their university choice 
 in another version by placing the uni_choice in the first stage. 
 
 
-### Course project for Data Science with Python at Hult International Business School
+### ***Course project for Data Science with Python at Hult International Business School***
