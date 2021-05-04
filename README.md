@@ -21,7 +21,4 @@ choices have been used, to provide a more dynamic gameflow.
 Functionality Bug: 
 University choice and name can only be reset by re-starting the game. This 
 is intentional, but some players might prefer to change their university choice eventually. Could be fixed 
-in another version by placing the uni_choice in the first stage. 
-
-
-### ***Course project for Data Science with Python at Hult International Business School***
+in another version by placing the uni_choice in the first stage.
